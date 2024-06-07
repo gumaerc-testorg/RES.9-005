@@ -1,5 +1,5 @@
 leftnav:
-- identifier: external--1905354293-1686937256447
+- identifier: aeb110bb-be58-472f-b7ee-a3472622be61
   name: fMRI Bootcamp Website
-  url: https://cbmm.mit.edu/learning-hub/tutorial/fmri-bootcamp
+  pageRef: /external-resources/fmri-bootcamp-website_aeb110bb-be58-472f-b7ee-a3472622be61
   weight: 10
