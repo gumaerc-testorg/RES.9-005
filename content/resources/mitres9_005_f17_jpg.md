@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-9-005-fmri-bootcamp-fall-2017/mitres9_005_f17.jpg
+file_size: 80392
 file_type: image/jpeg
 image_metadata:
   caption: 'Image of the human brain created using the SUMA computer image processing
