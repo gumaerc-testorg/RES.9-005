@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-9-005-fmri-bootcamp-fall-2017/mitres9_005_f17.jpg
+file: courses/fmri-bootcamps/mitres9_005_f17.jpg
 file_size: 80392
 file_type: image/jpeg
 image_metadata:
